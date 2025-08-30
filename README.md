@@ -32,6 +32,8 @@ The dashboard is created using **Excel Pivot Tables and Pivot Charts** for dynam
 ### Main Dashboard
 <img width="1652" height="666" alt="Screenshot 2025-08-30 223155" src="https://github.com/user-attachments/assets/18338da4-ddec-4871-9dec-a873212fdfa1" />
 
+
+### Updated Main Dashboard
 <img width="1665" height="671" alt="Screenshot 2025-08-30 230552" src="https://github.com/user-attachments/assets/4136ae0d-6fe9-4ce6-8647-3fcc3e4110d0" />
 
 ---
